@@ -27,3 +27,14 @@ Setelah Anda membuat atau meng-clone project, ikuti langkah berikut untuk menjal
 ```bash
 composer install       # Menginstal semua dependensi
 php artisan serve      # Menjalankan server Laravel
+```
+
+### ✨ Fitur Tambahan
+## 📄 Ekspor Data ke PDF
+Proyek ini memiliki fitur untuk mengekspor data ke format PDF menggunakan package barryvdh/laravel-dompdf.
+
+📦 Instalasi Package PDF
+Untuk mengaktifkan fitur PDF, jalankan perintah berikut:
+```bash
+composer require barryvdh/laravel-dompdf
+``
