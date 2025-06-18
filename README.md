@@ -18,8 +18,9 @@ composer create-project laravel/laravel frontend_uas_230202041
 # ATAU clone dari repository GitHub
 git clone https://github.com/ProboDwi/frontend-uas-pbf-230202041.git
 cd frontend-uas-pbf-230202041
+```
 
-## ⚙️ Menjalankan Project Laravel
+### ⚙️ Menjalankan Project Laravel
 
 Setelah Anda membuat atau meng-clone project, ikuti langkah berikut untuk menjalankan aplikasi Laravel:
 
