@@ -115,11 +115,11 @@
                     </div>
                     <div class="mb-3">
                         <label class="form-label">Tanggal Lahir</label>
-                        <input type="text" class="form-control" name="tanggal_lahir" placeholder="Ketikan L/P" required>
+                        <input type="text" class="form-control" name="tanggal_lahir" required>
                     </div>
                     <div class="mb-3">
                         <label class="form-label">Jenis Kelamin</label>
-                        <input type="text" class="form-control" name="jenis_kelamin" required>
+                        <input type="text" class="form-control" name="jenis_kelamin" placeholder="Ketikkan L/P" required>
                     </div>
                 </div>
                 <div class="modal-footer">
@@ -156,7 +156,7 @@
                     </div>
                     <div class="mb-3">
                         <label>Jenis Kelamin</label>
-                        <input type="text" name="jenis_kelamin" id="edit-jenis_kelamin" placeholder="Ketikan L/P" class="form-control" required>
+                        <input type="text" name="jenis_kelamin" id="edit-jenis_kelamin" placeholder="Ketikkan L/P" class="form-control" required>
                     </div>
                 </div>
                 <div class="modal-footer">
