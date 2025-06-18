@@ -29,8 +29,8 @@ composer install       # Menginstal semua dependensi
 php artisan serve      # Menjalankan server Laravel
 ```
 
-### ✨ Fitur Tambahan
-## 📄 Ekspor Data ke PDF
+## ✨ Fitur Tambahan
+### 📄 Ekspor Data ke PDF
 Proyek ini memiliki fitur untuk mengekspor data ke format PDF menggunakan package barryvdh/laravel-dompdf.
 
 📦 Instalasi Package PDF
