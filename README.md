@@ -7,7 +7,7 @@ Proyek ini mencakup fitur dasar Laravel serta tambahan fitur **ekspor data ke PD
 
 ## 🚀 Instalasi Project
 
-### 💻 1. Clone atau Buat Project
+### 💻 Clone atau Buat Project
 
 > Pilih salah satu metode:
 
@@ -37,4 +37,4 @@ Proyek ini memiliki fitur untuk mengekspor data ke format PDF menggunakan packag
 Untuk mengaktifkan fitur PDF, jalankan perintah berikut:
 ```bash
 composer require barryvdh/laravel-dompdf
-``
+```
