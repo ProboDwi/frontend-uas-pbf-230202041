@@ -1,7 +1,9 @@
 ### Instalasi Project
 ### Frontend
 git bash
+
 composer create-project laravel/laravel frontend_uas_230202041
+
 atau git clone https://github.com/ProboDwi/frontend-uas-pbf-230202041.git
 
 
